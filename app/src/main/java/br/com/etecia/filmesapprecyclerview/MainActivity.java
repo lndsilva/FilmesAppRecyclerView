@@ -35,6 +35,16 @@ public class MainActivity extends AppCompatActivity {
         lstFilmes.add(new Filmes("Tudo em todo lugar", "Arrastada para aventura", "Comédia", R.drawable.tudoemtodolugar));
         lstFilmes.add(new Filmes("Coringa", "Exploração de Arthur", "Drama", R.drawable.coringa));
         lstFilmes.add(new Filmes("Triangulo da Tristeza", "Casal modelo de celebridades", "Comédia", R.drawable.triangulodatristeza));
+        lstFilmes.add(new Filmes("Coringa", "Exploração de Arthur", "Drama", R.drawable.coringa));
+        lstFilmes.add(new Filmes("Triangulo da Tristeza", "Casal modelo de celebridades", "Comédia", R.drawable.triangulodatristeza));
+        lstFilmes.add(new Filmes("Tudo em todo lugar", "Arrastada para aventura", "Comédia", R.drawable.tudoemtodolugar));
+        lstFilmes.add(new Filmes("Coringa", "Exploração de Arthur", "Drama", R.drawable.coringa));
+        lstFilmes.add(new Filmes("Triangulo da Tristeza", "Casal modelo de celebridades", "Comédia", R.drawable.triangulodatristeza));
+        lstFilmes.add(new Filmes("Coringa", "Exploração de Arthur", "Drama", R.drawable.coringa));
+        lstFilmes.add(new Filmes("Triangulo da Tristeza", "Casal modelo de celebridades", "Comédia", R.drawable.triangulodatristeza));
+        lstFilmes.add(new Filmes("Tudo em todo lugar", "Arrastada para aventura", "Comédia", R.drawable.tudoemtodolugar));
+        lstFilmes.add(new Filmes("Coringa", "Exploração de Arthur", "Drama", R.drawable.coringa));
+        lstFilmes.add(new Filmes("Triangulo da Tristeza", "Casal modelo de celebridades", "Comédia", R.drawable.triangulodatristeza));
 
         idRecyclerView = findViewById(R.id.idRecyclerView);
 

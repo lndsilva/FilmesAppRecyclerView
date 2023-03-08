@@ -30,7 +30,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
         View view;
 
         LayoutInflater inflater = LayoutInflater.from(mContext);
-        view = inflater.inflate(R.layout.modelo_filmes,parent,true);
+        view = inflater.inflate(R.layout.modelo_filmes,parent,false);
         return new MyViewHolder(view);
     }
 
